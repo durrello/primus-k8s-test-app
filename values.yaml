@@ -1,0 +1,7 @@
+# global values
+global:
+  # image registry
+  imageRegistry: "durrellgemuh"
+  # image tag  imageTag: "latest"
+  imageTag: "latest"    
+  namespace: "dev"
